@@ -22,7 +22,7 @@ new_config=\
         }
 
         if (\$request_filename ~ redirect_me){
-            return 301 https:/marketus.com.ng  permanent;
+            return 301 https://marketus.com.ng;
         }
 }
 "
